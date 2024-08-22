@@ -1,11 +1,9 @@
-# homework5
+# Pymaceuticals
 
 Open the Pymaceuticals.ipynb file in [Jupyter Lab](https://jupyter.org/)
 
 ## Repository Contents
 - Pymaceuticals - folder containing analysis code
-- Module 5 Challenge.pdf - instructions for assignment copied from class website
-- PyCitySchools.ipynb - Jupyter notebook containing the analysis, Pandas code, and written report for the assignment
 
 ### Pymaceuticals
 - data - folder containing starting data
